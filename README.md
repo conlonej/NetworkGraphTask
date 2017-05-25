@@ -2,7 +2,7 @@
 
 This small program allows a user to set-up and input their own configuration file for a network, and receive an output file that provides a description of the network, including all links between nodes, the weights of those links, and the weights of the nodes themselves. A sample configuration file are provided as "config.txt" and "graph_output.txt" respectively.
 
-A configuration file requires the following format:
+#### A configuration file requires the following format:
 
 Line 1: Number of Nodes Requested  <br />
 Line 2: Topology of Network (Linear, Full, Star, or Random)  
@@ -14,7 +14,7 @@ Line 7: Maximum Link Weight
 
 NOTE: Please enter these numbers and topology selection without any additional labeling.
 
-The output file you receive should have the following format:
+#### The output file you receive should have the following format:
 
 Line 1: "First node" "Second node" Link weight <br />
 Line 2: "First node" "Second node" Link weight <br />
