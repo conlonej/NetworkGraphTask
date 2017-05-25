@@ -24,5 +24,7 @@ Line 2: "First node" "Second node" Link weight <br />
 Line N-1: "First node" "Second node" Link weight <br />
 Line N: "Node0 weight" "Node1 weight" . . . "NodeN Weight"
 
+Compile the file using g++ or a C++ compiler of your choice. You will be asked to enter a configuration file name upon running the executable.
+
 Email conlonej@slu.edu with any additional questions.
 
